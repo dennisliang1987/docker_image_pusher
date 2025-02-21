@@ -1,5 +1,3 @@
-nginx
-python
-mysql
-redis
+python:3.9.21-alpine
+nginx:stable-alpine3.20-perl
 
