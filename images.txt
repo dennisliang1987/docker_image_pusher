@@ -7,3 +7,5 @@ python:3.9.21-alpine3.21
 python:3.7.5-alpine3.9
 python:3.9.21-alpine3.20
 sonarqube:9.9.8-enterprise
+elasticsearch:7.17.28
+elasticsearch:8.16.3
