@@ -13,5 +13,5 @@ zookeeper:latest
 php:8.2.27-apache
 php:8.2.27-cli
 php:8.2.27
-
+almalinux:9.5-minimal-20241118
 
