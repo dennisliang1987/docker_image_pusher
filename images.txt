@@ -1,4 +1,4 @@
-nginx:stable-alpine3.20-perl
+nginx:latest
 openjdk:25-ea-11-oraclelinux8
 openjdk:8u121-jre-alpine
 node:18.20.7-alpine3.20
@@ -15,4 +15,4 @@ php:8.2.27-cli
 php:8.2.27
 almalinux:9.5-minimal-20241118
 solr:9.6.1
-
+registry:latest
