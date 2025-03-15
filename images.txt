@@ -16,3 +16,4 @@ php:8.2.27
 almalinux:9.5-minimal-20241118
 solr:9.6.1
 registry:latest
+docker.io/library/debian:jessie
