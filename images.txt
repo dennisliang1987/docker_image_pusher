@@ -17,6 +17,10 @@ almalinux:9.5-minimal-20241118
 solr:9.6.1
 registry:latest
 docker.io/library/debian:jessie
-calico/node
-calico/kube-controllers
-calico/node
+calico/node:release-v3.28-arm64
+calico/node:release-v3.28
+calico/cni:release-v3.28
+calico/cni:release-v3.28-arm64
+calico/kube-controllers:release-v3.28
+calico/kube-controllers:release-v3.28-arm64
+rancher/k3s:latest
